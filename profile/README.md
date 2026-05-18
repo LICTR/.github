@@ -6,7 +6,7 @@ This is our GitHub Organisation, a place where we collect and share open reposit
 
 ## Get involved
 
-Collaboration is one of our key values at LICTR. If you are intrerested in controbuting to one of our projects, a great place to start is in the list of issues for the repository in question. Anyone can work on an issue, suggest a new issue themselves, or just contribute to its discussion. In addition to the organisation repos, you can find other projects (typically at an earlier stage of development) in the individual repos of our team members.
+Collaboration is one of our key values at LICTR. If you are intrerested in contributing to one of our projects, a great place to start is in the list of issues for the repository in question. Anyone can work on an issue, suggest a new issue themselves, or just contribute to its discussion. In addition to the organisation repos, you can find other projects (typically at an earlier stage of development) in the individual repos of our team members.
 
 <!--
 
